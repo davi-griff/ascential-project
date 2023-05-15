@@ -1,0 +1,2 @@
+from .price_variation_repository import PriceVariationRepositoryFile
+from .availability_repository import AvailabilityRepositoryFile
